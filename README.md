@@ -14,7 +14,10 @@ For Frontend:
 4. Run command npm start
 
 
+
+
 Screenshots of Todo-App
+
 
 ![image](https://user-images.githubusercontent.com/86945412/235356616-7aa086e4-95f9-4de0-9cd2-b65d15029c43.png)
 
