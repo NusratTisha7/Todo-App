@@ -1,0 +1,52 @@
+.paperStyle {
+    padding: 20px;
+    height: 70vh;
+    width: 350px;
+    margin: 100px auto
+}
+
+.avatarStyle {
+    background-color: #527a7a !important;
+}
+
+.btnStyle {
+    margin-top: 20px;
+    background-color: #527a7a !important;
+    color: white;
+    width: 250px;
+    border: none;
+    padding: 5px;
+}
+
+
+.firstInput{
+   margin-top: 30px;
+}
+
+
+form input{
+    width: 250px;
+}
+
+.errorStyle{
+    color: #cc0033;
+    display: inline-block;
+    font-size: 12px;
+    line-height: 15px;
+    margin-left: 30px;
+}
+
+.note{
+    margin-top: 15px;
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 30px;
+    color: black ;
+}
+
+.paperStyleRegister{
+    padding: 20px;
+    height: 85vh;
+    width: 350px;
+    margin: 100px auto
+}
